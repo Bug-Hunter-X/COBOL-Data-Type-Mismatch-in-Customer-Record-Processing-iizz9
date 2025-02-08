@@ -1,0 +1,1 @@
+This repository contains a COBOL program with a potential bug related to data type mismatch or improper comparisons. The program reads customer records from a file and checks for the existence and validity of customer numbers.  A solution is provided to address the potential issue.
